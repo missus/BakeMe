@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="medium_text">20sp</dimen>
+    <dimen name="text">18sp</dimen>
+    <dimen name="small_text">16sp</dimen>
+    <dimen name="width">320dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+</resources>

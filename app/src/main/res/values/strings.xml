@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bake Me</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="step">Step </string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="widget_add">Add to the Widget</string>
+    <string name="widget_empty">No recipe selected</string>
+</resources>
